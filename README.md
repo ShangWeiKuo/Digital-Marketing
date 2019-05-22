@@ -7,7 +7,7 @@
 <br>
 <br>
 1.&nbsp;&nbsp;背景說明--公司簡介
-<img src="https://github.com/ShangWeiKuo/Digital-Marketing/blob/master/%E5%85%AC%E5%8F%B8%E7%B0%A1%E4%BB%8B.png" width="700">
+<img src="https://github.com/ShangWeiKuo/Digital-Marketing/blob/master/%E5%85%AC%E5%8F%B8%E7%B0%A1%E4%BB%8B.png" width="500">
 <br>
 <br>
 <br>
