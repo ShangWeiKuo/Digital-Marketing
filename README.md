@@ -1,9 +1,11 @@
 # Digital-Marketing
 ## 主題:《天外奇蹟: Taco Bell玩轉留言的神奇魔術》
 
-簡述:
+簡述:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本次報告將講述美國知名連鎖餐廳 Taco Bell如何將不利於己的假新聞轉換成行銷自身品牌的機會，並分析Taco Bell在此次行銷活動的成效。
-
+<br>
+<br>
+<br>
 1.&nbsp;&nbsp;背景說明--公司簡介
 <img src="https://github.com/ShangWeiKuo/Digital-Marketing/blob/master/%E5%85%AC%E5%8F%B8%E7%B0%A1%E4%BB%8B.png" width="700">
 <br>
